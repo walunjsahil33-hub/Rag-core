@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "47784ee967a402ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9bf268a5f261c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aafec3b1fe7139c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG-Project-Learning-Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG-Project-Learning-Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6250a6ea59ea809",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52216eb9cd5a6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891c55fceed95738",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37d769831e90fb38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62d0aa58132667c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f96f61b202090d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "7892cba838dbdefe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836945bf23a783ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "V1 Draft Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for V1 Draft Structure"
+            }
+          },
+          {
+            "id": "0d5a7e5d4be7b2b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "V1 Draft Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from V1 Draft Structure"
+            }
+          },
+          {
+            "id": "6868c98a3d80083f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e2f546d5828a9b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b13ec453cbbd8c80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "V1 Draft Structure.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of V1 Draft Structure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6aafec3b1fe7139c",
+  "lastOpenFiles": [
+    "Component 3 - Frontend & Visualization.md",
+    "Component 2 - Backend & Orchestration.md",
+    "RAG-Project-Learning-Notes.md",
+    "Component 1 - Math & Retrieval Core.md",
+    "V1 Draft Structure.md",
+    "Shared Data Contract.md"
+  ]
+}
