@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG-Project-Learning-Notes.md",
+                "file": "Phase 1 - Role_ Retrieval Logic (Person 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG-Project-Learning-Notes"
+              "title": "Phase 1 - Role_ Retrieval Logic (Person 2)"
             }
           }
         ]
@@ -185,10 +185,16 @@
   },
   "active": "6aafec3b1fe7139c",
   "lastOpenFiles": [
+    "RAG-Project-Learning-Notes.md",
+    "Phase 1 - Role_ Backend & Glue (Person 4).md",
+    "Phase 1 - Role_ Retrieval Logic (Person 2).md",
+    "Phase 1 - Data Contract.md",
+    "Phase 1 Overview.md",
+    "Component 1 - Math & Retrieval Core.md",
+    "Phase 1 - Role_ Frontend (Person 3).md",
+    "Phase 1 - Role_ Data & Embeddings (Person 1).md",
     "Component 3 - Frontend & Visualization.md",
     "Component 2 - Backend & Orchestration.md",
-    "RAG-Project-Learning-Notes.md",
-    "Component 1 - Math & Retrieval Core.md",
     "V1 Draft Structure.md",
     "Shared Data Contract.md"
   ]

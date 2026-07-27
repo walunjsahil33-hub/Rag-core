@@ -62,42 +62,6 @@ Out of a list of ~25 beginner/intermediate project ideas, this one won because:
 
 - **Free-tool friendly** — almost everything runs locally and free, so we're not blocked by API costs or rate limits
 
-  
-
----
-
-  
-
-## The three components (click for full details)
-
-  
-
-| Component | What it does, briefly | Full notes |
-
-|---|---|---|
-
-| **Math & Retrieval Core** | Turns documents into chunks, converts them into numbers (embeddings), and finds the most relevant chunks for a question | [[Component 1 - Math & Retrieval Core]] |
-
-| **Backend & Orchestration** | Connects everything — takes a question, calls retrieval, calls the LLM, sends back an answer | [[Component 2 - Backend & Orchestration]] |
-
-| **Frontend & Visualization** | The chat interface users see, plus panels showing what got retrieved and why | [[Component 3 - Frontend & Visualization]] |
-
-  
-
----
-
-  
-
-## Other key references
-
-  
-
-- **[[Shared Data Contract]]** — the exact "shape" of data each component will pass to the others. Agree on this *before* writing code — it's what keeps the three of you from stepping on each other.
-
-- **[[V1 Draft Structure]]** — the actual folder structure and step-by-step build order for our first working version. Keep v1 small on purpose; fancier stuff comes later.
-
-  
-
 ---
 
   
@@ -155,3 +119,23 @@ We are **not** going to sit down and deeply study every concept before writing c
 - [ ] Groq or Gemini for the LLM step?
 
 - [ ] Who owns which component?
+
+
+![[Phase 1 Overview]]
+
+
+![[Phase 1 - Role_ Data & Embeddings (Person 1)]] 
+
+![[Phase 1 - Role_ Retrieval Logic (Person 2)]]
+
+
+![[Phase 1 - Role_ Frontend (Person 3)]]
+
+![[Phase 1 - Role_ Backend & Glue (Person 4)]]
+
+
+
+
+
+
+![[Phase 1 - Data Contract]]
