@@ -105,7 +105,8 @@
               "title": "RAG-Project-Learning-Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -265,10 +266,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5670d89277eb4e89",
+  "active": "8e7b0e9e2c572068",
   "lastOpenFiles": [
-    "Obsidian Vault/Phase 1 - Role_ Data & Embeddings (Person 1).md",
+    "Data and Embeddings/data/customer_support_sla.txt",
+    "Data and Embeddings/data/tech_architecture.txt",
+    "Data and Embeddings/data/travel_expenses.txt",
+    "Data and Embeddings/data/it_security_guide.txt",
+    "Data and Embeddings/data/company_policies.txt",
+    "Data and Embeddings/retrieval",
+    "Data and Embeddings/data",
     "Obsidian Vault/Phase 1 - Data Contract.md",
+    "Data and Embeddings",
+    "Obsidian Vault/Phase 1 - Role_ Data & Embeddings (Person 1).md",
     "Obsidian Vault/Phase 1 - Role_ Retrieval Logic (Person 2).md",
     "Obsidian Vault/Phase 1 Overview.md",
     "Obsidian Vault/Phase 1 - Role_ Frontend (Person 3).md",

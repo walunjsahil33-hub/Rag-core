@@ -1,0 +1,16 @@
+NEXUS CORP INFORMATION SECURITY AND COMPLIANCE GUIDELINES
+
+1. Password Security and Multi-Factor Authentication (MFA)
+All corporate email accounts, code repositories, internal databases, and administrative tools strictly require Multi-Factor Authentication (MFA). Authentication requests must be verified via the Okta Authenticator application or hardware YubiKeys. Standard passwords must be a minimum of 16 characters long and must contain a combination of uppercase letters, lowercase letters, numbers, and special symbols. Corporate passwords must be updated every 90 days, and the system automatically prevents reusing any of the previous 8 passwords.
+
+2. Device Encryption, Endpoint Protection, and Software Controls
+All company-issued laptops must run full file system encryption (FileVault on macOS or BitLocker on Windows platforms). Employees are strictly forbidden from disabling CrowdStrike endpoint protection software, modifying local firewall settings, or installing unapproved third-party software applications. Personal USB drives and unapproved external storage hardware are automatically blocked by device management software to prevent corporate data leakage.
+
+3. Phishing Protocols and Security Incident Reporting
+If an employee suspects they have received a phishing email or inadvertently clicked an unsafe external link, they must isolate their computer from Wi-Fi immediately. The incident must be reported to the Security Operations Center (SOC) via email to security-alert@nexuscorp.com or through the emergency #sec-incidents Slack channel within 15 minutes.
+
+4. Remote Access and Virtual Private Network (VPN)
+Accessing internal staging environments, internal wiki pages, or production servers requires an active encrypted connection through the corporate VPN. Connecting to corporate resources via unsecured public Wi-Fi networks without an active VPN is a direct violation of IT policy. VPN sessions automatically log out after 12 hours of inactivity, requiring re-authentication via MFA.
+
+5. Data Classification and Offboarding Controls
+Data at Nexus Corp is classified into three tiers: Public, Internal, and Restricted. Restricted data includes customer personally identifiable information (PII) and financial records, which must never be stored on local drives. When an employee departs the company, IT automatically revokes access to all systems at 5:00 PM on their final day, and physical hardware must be returned via pre-paid shipping within 7 days.
