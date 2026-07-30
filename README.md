@@ -24,4 +24,4 @@ Most beginner RAG projects import a vector DB and call it done. We wanted to act
 
 ## Team
 
-Built by three beginners, learning by doing.
+Built by four beginners, learning by doing.
