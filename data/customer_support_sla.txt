@@ -1,0 +1,16 @@
+NEXUS CORP CUSTOMER SUPPORT & SERVICE LEVEL AGREEMENTS (SLA)
+
+1. Ticket Severity Levels and Target Response Times
+Customer support requests submitted to Nexus Corp are categorized into three distinct severity levels: Critical (P1), Major (P2), and Minor (P3). P1 issues involve total system outages or severe data corruption affecting production environments; these require an initial response from the engineering team within 15 minutes and status updates every 30 minutes. P2 issues involve degraded performance or broken core functionality without complete system downtime, carrying a 2-hour response SLA. P3 issues cover general inquiries, how-to questions, and non-blocking feature requests, carrying a 24-hour response window.
+
+2. Support Channels, Coverage, and Operating Hours
+Standard customer support is available via email at support@nexuscorp.com and through our web portal from 8:00 AM to 8:00 PM EST, Monday through Friday. Dedicated 24/7 emergency phone support and private Slack Connect channels are strictly reserved for Enterprise tier customers who encounter P1 critical incidents outside of standard business hours.
+
+3. Automated Ticket Routing and Escalation Procedures
+Incoming tickets are automatically categorized and assigned using AI-based text routing. If a P1 or P2 support ticket exceeds its response SLA window without active progress logged by an engineer, it automatically escalates to the Duty Support Manager. If the issue remains unresolved after 4 hours, the escalation transfers directly to the VP of Customer Success and the Lead Infrastructure Engineer on call.
+
+4. Customer Satisfaction (CSAT) and Quality Assurance
+Following the closure of every support ticket, an automated customer satisfaction survey is dispatched to the submitter requesting a rating from 1 to 5 stars alongside optional qualitative feedback. Any survey returned with a rating of 2 stars or below triggers an automatic review by the Support Quality Assurance Lead within 48 hours to determine root causes and improve agent training.
+
+5. Service Credits for SLA Breaches
+For Enterprise tier customers, Nexus Corp guarantees a monthly system uptime availability of 99.9%. If system availability drops below 99.9% in any calendar month, affected customers are eligible to claim service credits equal to 10% of their monthly subscription fee. Requests for service credits must be submitted to billing@nexuscorp.com within 30 days of the affected month's end.
